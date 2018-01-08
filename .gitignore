@@ -1,0 +1,7 @@
+.vs
+*.exe
+*.db
+*.opendb
+Debug
+/OperatorOverloadingDemo/Debug
+
